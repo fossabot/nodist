@@ -20,7 +20,7 @@
     "url": "https://github.com/nodists/nodist.git"
   },
   "dependencies": {
-    "@octokit/rest": "^18.12.0",
+    "@octokit/rest": "^22.0.1",
     "axios": "^0.27.2",
     "bluebird": "^3.7.2",
     "debug": "^4.3.4",
