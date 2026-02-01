@@ -32,7 +32,7 @@
     "request": "~2.88.0",
     "rimraf": "^3.0.2",
     "semver": "^7.3.7",
-    "tar": "^6.1.11"
+    "tar": "^7.5.7"
   },
   "devDependencies": {
     "node-unzip-2": "^0.2.8",
