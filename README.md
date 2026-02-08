@@ -1,6 +1,7 @@
 # nodist
 
 [![Join the chat at https://gitter.im/marcelklehr/nodist](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcelklehr/nodist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fnodist.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fnodist?ref=badge_shield)
 
 A node.js and npm version manager for the windows folks out there. Inspired by [n](https://github.com/visionmedia/n). And [nodenv](https://github.com/OiNutter/nodenv).
 
@@ -514,3 +515,7 @@ v0.2.3
 * Install latest stable as default version
 * Add update command
 * Updated npm
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fnodist.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fnodist?ref=badge_large)
